@@ -40,6 +40,7 @@
   
    
 #Reports
+![report2-trans](https://github.com/PrikapDee/OrangeHrmProject02/raw/main/report2.PNG)
 
   For testing report , Pytest html report is used.
 
