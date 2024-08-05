@@ -32,10 +32,10 @@
 
 #Testcases
 
-   1.Verify Login functionality.
-   2.Verify forgot password link.
-   3.Verify header vaidation under Admin tab.
-   4.Verify Main menu validation.
+    1.Verify Login functionality.
+    2.Verify forgot password link.
+    3.Verify header vaidation under Admin tab.
+    4.Verify Main menu validation.
 
   
    
